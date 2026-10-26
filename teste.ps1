@@ -1,1 +1,1 @@
-Write-Output "Versao 1 - Script carregado do GitHub"
+Write-Output "Versao 2 - Atualizada!"

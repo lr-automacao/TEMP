@@ -7,7 +7,7 @@
 # =================== CONFIGURACOES ===================
 
 # DECLARACAO DAS VARIAVEIS
-$VersaoScript = "2.5.3"
+$VersaoScript = "2.5.6"
 $URLGit = "https://raw.githubusercontent.com/lr-automacao/TEMP/main/script.ps1" 
 $DiretorioScript = "C:\Users\Administrador\Desktop\TESTE\script.ps1"
 

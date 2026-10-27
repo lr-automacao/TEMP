@@ -7,7 +7,7 @@
 # =================== CONFIGURACOES ===================
 
 # DECLARACAO DAS VARIAVEIS
-$VersaoScript = "3.5.6"
+$VersaoScript = "4.5.6"
 $URLScriptGIT = "https://raw.githubusercontent.com/lr-automacao/TEMP/main/script.ps1" 
 $ArqScriptAtual = "C:\Users\Administrador\Desktop\TESTE\script.ps1"
 $ArqScriptTemp = "$ArqScriptAtual.download"

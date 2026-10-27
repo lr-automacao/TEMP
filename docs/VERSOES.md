@@ -1,4 +1,4 @@
-# Relação das versões do script Docker
+## Relação das versões do script Docker
 
 <!-- TABELA_INICIO -->
 | Cliente | Execução | Atualização | Versão |

@@ -1,8 +1,8 @@
 # Histórico de versões
 
 <!-- TABELA_INICIO -->
-| Versao | Data | Status |
+| Data | Cliente | Versao |
 | --- | --- | --- |
-| 1.0.0 | 2026-10-27 | Estavel |
-| 1.1.0 | 2026-10-27 | Em teste |
+| 2026-10-27 | Matheus | 1.0.0 |
+| 2026-10-27 | Joao | 1.1.1 |
 <!-- TABELA_FIM -->

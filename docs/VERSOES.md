@@ -1,5 +1,7 @@
 # Histórico de versões
 
-| Data | Cliente |Versão |
-|---|---|---|
-| 2026-10-20 | LRAUTOMACAO | 2.4.1 |
+<!-- TABELA_INICIO -->
+| Versao | Data | Status |
+| --- | --- | --- |
+| 0.9.0 | 2026-10-01 | Antiga |
+<!-- TABELA_FIM -->

@@ -1,4 +1,4 @@
-# Histórico de versões
+# Relação das versões do script Docker
 
 <!-- TABELA_INICIO -->
 | Data | Cliente | Versao |
